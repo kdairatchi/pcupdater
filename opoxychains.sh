@@ -6,7 +6,7 @@
 # ==============================================
 
 # Configuration
-CONF_FILE="/etc/proxychains.conf"
+CONF_FILE="/etc/proxychains4.conf"
 TEMP_DIR="/tmp/proxychains_manager"
 ALL_PROXIES="$TEMP_DIR/all_proxies.txt"
 WORKING_PROXIES="$TEMP_DIR/working_proxies.txt"
